@@ -35,6 +35,8 @@
  - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
+Utilized PostgreSQL to analyze HR data and optimize employee distribution. Implemented advanced SQL techniques, including subqueries and window functions, to derive meaningful insights into workforce allocation. Developed a comprehensive visual representation using Power BI. 
+
 ## Limitations
 
 - Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
